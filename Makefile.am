@@ -11,7 +11,7 @@ nls_incdir = $(top_srcdir)/nls
 
 EXTRA_DIST = \
 	3rd/vim/ \
-	build-aux/config.rpath \
+	config.rpath \
 	nls/fluxbox-nls.hh \
 	nls/nlsinfo
 

@@ -1,2 +1,0 @@
-# fluxbox
-Fluxbox clone ;)

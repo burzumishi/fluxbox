@@ -10,6 +10,7 @@ MFILES = Translation.m
 EXTRA_DIST= $(MFILES)
 
 all-local: fluxbox.cat
+
 install-data-local: fluxbox.cat
 	@if test x$(NLSTEST) = "x-DNLS"; then \
 		echo "Installing catalog in $(DESTDIR)$(LOCALE_PATH)/$(THE_LANG)"; \
