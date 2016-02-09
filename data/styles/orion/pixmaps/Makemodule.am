@@ -1,0 +1,33 @@
+orion_pixmaps_styledir = $(pkgdatadir)/styles/orion/pixmaps
+
+dist_orion_pixmaps_style_DATA = \
+	data/styles/orion/pixmaps/bullet.xpm \
+	data/styles/orion/pixmaps/closefcs.xpm \
+	data/styles/orion/pixmaps/closepr.xpm \
+	data/styles/orion/pixmaps/closeufcs.xpm \
+	data/styles/orion/pixmaps/frame.xpm \
+	data/styles/orion/pixmaps/gripfcs.xpm \
+	data/styles/orion/pixmaps/maxfcs.xpm \
+	data/styles/orion/pixmaps/maxpr.xpm \
+	data/styles/orion/pixmaps/maxufcs.xpm \
+	data/styles/orion/pixmaps/menuiconfcs.xpm \
+	data/styles/orion/pixmaps/menuiconpr.xpm \
+	data/styles/orion/pixmaps/menuiconufcs.xpm \
+	data/styles/orion/pixmaps/minfcs.xpm \
+	data/styles/orion/pixmaps/minpr.xpm \
+	data/styles/orion/pixmaps/minufcs.xpm \
+	data/styles/orion/pixmaps/selected.xpm \
+	data/styles/orion/pixmaps/shadefcs.xpm \
+	data/styles/orion/pixmaps/shadepr.xpm \
+	data/styles/orion/pixmaps/shadeufcs.xpm \
+	data/styles/orion/pixmaps/stickfcs.xpm \
+	data/styles/orion/pixmaps/stickpr.xpm \
+	data/styles/orion/pixmaps/stickufcs.xpm \
+	data/styles/orion/pixmaps/stuckfcs.xpm \
+	data/styles/orion/pixmaps/stuckufcs.xpm \
+	data/styles/orion/pixmaps/tbarfcs.xpm \
+	data/styles/orion/pixmaps/tbarufcs.xpm \
+	data/styles/orion/pixmaps/unselected.xpm \
+	data/styles/orion/pixmaps/unshadefcs.xpm \
+	data/styles/orion/pixmaps/unshadepr.xpm \
+	data/styles/orion/pixmaps/unshadeufcs.xpm

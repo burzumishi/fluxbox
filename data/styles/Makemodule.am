@@ -14,6 +14,7 @@ style_DATA = \
 	data/styles/Results \
 	data/styles/Shade \
 	data/styles/Twice \
-	data/styles/qnx-photon
+	data/styles/qnx-photon \
+	data/styles/orion
 
 EXTRA_DIST += $(style_DATA)

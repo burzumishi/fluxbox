@@ -1,0 +1,3 @@
+orion_styledir = $(pkgdatadir)/styles/orion
+
+dist_orion_style_DATA = data/styles/orion/theme.cfg
